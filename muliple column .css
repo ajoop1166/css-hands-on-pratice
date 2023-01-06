@@ -1,0 +1,7 @@
+h1 {
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+.newspaper {
+  column-count: 4;
+}
